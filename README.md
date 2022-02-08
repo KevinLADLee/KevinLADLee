@@ -4,7 +4,7 @@ I am a researcher in the area of robotics. It would be a pleasure to work with y
 
 I have worked on projects related to robot navigation system, autonomous driving dataset and autonomous driving simulation.
 
-Looking for an exciting PhD opportunity. (Robotics or Autonomous Driving)
+Looking for an exciting opportunity. (Robotics or Autonomous Driving)
 
 **Skills**: **C++**, **Python**, **ROS**, **Docker**, and more.
 
