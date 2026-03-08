@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ChengYang Li's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 279, Total Commits  (last year) : 37, Total PRs: 36, Total Issues: 6, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 281, Total Commits  (last year) : 37, Total PRs: 36, Total Issues: 6, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 128.1096271033876;
+        stroke-dashoffset: 128.0326972839258;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >279</text>
+      >281</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
